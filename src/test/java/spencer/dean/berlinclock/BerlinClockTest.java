@@ -1,4 +1,4 @@
-package com.inkglobal.techtest;
+package spencer.dean.berlinclock;
 
 import org.junit.Assert;
 import org.junit.Before;
